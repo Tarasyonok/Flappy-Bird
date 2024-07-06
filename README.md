@@ -1,2 +1,2 @@
 # Flappy-Bird
-deploy: https://tarasyonok.github.io/flappy-bird
+Deploy: https://tarasyonok.github.io/flappy-bird
